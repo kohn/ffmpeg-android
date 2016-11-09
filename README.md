@@ -10,6 +10,7 @@ Supported Architecture
 * armv7
 * armv7-neon
 * x86
+* x86_64
 
 Instructions
 ----
@@ -35,3 +36,7 @@ Get in touch with us - http://www.writingminds.com
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hiteshsondhi88/ffmpeg-android/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+Update
+--------
+* Based on the original ffmpeg-android, x86_64 arch is supported.
+* Tested with ndk-r10e and android-21 platform.
