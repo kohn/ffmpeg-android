@@ -40,3 +40,4 @@ Update
 --------
 * Based on the original ffmpeg-android, x86_64 arch is supported.
 * Tested with ndk-r10e and android-21 platform.
+* Related blog for Chinese users: http://www.kohn.com.cn/wordpress/?p=294
